@@ -2,13 +2,16 @@
 ## A UK based Location & Provider phone number identifier and crawler tool
 
 
-![alt text](https://i.ibb.co/t8L8jrX/banner.png)
+![](https://i.ibb.co/t8L8jrX/banner.png)
 
 ### Overview
 
 "***wire-fcked***" is a provider & location based number identifer designed to output high amounts of valid and contactable UK based phone numbers specific to an area or mobile provider chosen.
 
 It is designed for operational security and research purposes to provide high amounts of valid UK based phone numbers.
+
+
+![](https://i.ibb.co/YX0wD4X/sc1.png)
 
 ### How does it work?
 
@@ -21,6 +24,8 @@ Well, it all depends on the specific term of search a user wishes to make.
 But given a large or common provider is chosen by the user, such as ***EE*** or ***O2 Mobile*** then it can generate up to a couple thousand valid phone numbers a minute.
 
 If a user has chosen to find numbers based of a more specific term (such as a location or less common cell provider) then it may only generate from 10 to 100 per minute (it really depends)
+
+![](https://i.ibb.co/DKpZrJS/sc2.png)
 
 
 ### ***NOTICE:***
