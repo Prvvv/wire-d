@@ -1,5 +1,6 @@
 # wire-fcked
 ## A UK based Location & Provider phone number identifier and crawler tool
+> this has been listed as a private tool due to security and legal reasons, for further information or queries contact me at: ***prv@anche.no***
 
 
 ![](https://i.ibb.co/t8L8jrX/banner.png)
@@ -28,9 +29,6 @@ If a user has chosen to find numbers based of a more specific term (such as a lo
 ![](https://i.ibb.co/DKpZrJS/sc2.png)
 
 
-### ***NOTICE:***
-
-At the current time, this tool is not publically available due to public security and legal reasons
 
 
 
