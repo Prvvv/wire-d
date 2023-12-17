@@ -1,6 +1,6 @@
 # wire-fcked
 ## A UK based Location & Provider phone number identifier and crawler tool
-> This tool was made for a red-team cyber security proof of concept (POC) back in late 2021. To demonstrate how easy it is for attackers to seek out and obtain public mobile numbers and their relevant information this tool has been made, for further information or queries contact me at: ***prv@anche.no***
+> This tool was made for a red-team cyber security proof of concept (POC) back in late 2021. To demonstrate how easy it is for attackers to seek out and obtain public mobile numbers and their relevant information, for further information or queries contact me at: ***prv@anche.no***
 
 
 ![](https://i.ibb.co/t8L8jrX/banner.png)
