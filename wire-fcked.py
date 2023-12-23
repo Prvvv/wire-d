@@ -1,16 +1,8 @@
-
 import phonenumbers
-from phonenumbers import phonenumberutil
-from phonenumbers.phonenumberutil import region_code_for_country_code
-from phonenumbers.phonenumberutil import region_code_for_number
-from phonenumbers import phonenumberutil
-from phonenumbers.phonenumberutil import region_code_for_country_code
-from phonenumbers.phonenumberutil import region_code_for_number
-from phonenumbers import carrier
-from phonenumbers import geocoder
+from phonenumbers.phonenumberutil import region_code_for_country_code, region_code_for_number
+from phonenumbers import carrier, geocoder
 import requests
 from faker import Faker
-fake = Faker()
 import random
 import string
 import threading
@@ -18,23 +10,18 @@ import concurrent.futures
 import os
 import sys
 import socket
-import random
 import subprocess
 import platform
 import urllib
-import requests
 import time
 import textwrap
 import urllib.request
-import uuid
-import string
-import threading;from threading import Thread
 from prettytable import PrettyTable
-x = PrettyTable()
-from colorama import init
-init()
+from colorama import init, Fore, Back, Style
 
-from colorama import Fore, Back, Style
+fake = Faker()
+x = PrettyTable()
+init()
 
 print(Back.BLACK,Style.BRIGHT,Fore.YELLOW+"""
            __   ___     ___       __        ___  __  
