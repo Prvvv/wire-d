@@ -1,4 +1,4 @@
-# wire-fcked
+# wire'd
 ## A UK based Location & Provider phone number identifier and crawler tool
 > This tool was made for a red-team cyber security proof of concept (POC) back in late 2021. To demonstrate how easy it is for attackers to seek out and obtain public mobile numbers and their relevant information, for further information or queries contact me at: ***prv@anche.no***
 
@@ -7,7 +7,7 @@
 
 ### Overview
 
-"***wire-fcked***" is a provider & location based number identifer designed to output high amounts of valid and contactable UK based phone numbers specific to an area or mobile provider chosen.
+"***wire'd***" is a provider & location based number identifer designed to output high amounts of valid and contactable UK based phone numbers specific to an area or mobile provider chosen.
 
 It is designed for operational security and research purposes to provide high amounts of valid UK based phone numbers.
 
