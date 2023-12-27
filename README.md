@@ -26,7 +26,7 @@ But given a large or common provider is chosen by the user, such as ***EE*** or 
 
 If a user has chosen to find numbers based of a more specific term (such as a location or less common cell provider) then it may only generate from 10 to 100 per minute (it really depends)
 
-![](https://i.ibb.co/DKpZrJS/sc2.png)
+![](https://i.ibb.co/VqDTbTn/wiredd.png)
 
 
 
